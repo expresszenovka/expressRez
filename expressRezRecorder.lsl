@@ -1,7 +1,7 @@
 //---------------------------------
 // expressRez Prim Recorder
 // version 1.0  (December 25, 2010)
-// https://github.com/expresszenovka/expressRez
+// http://github.com/expresszenovka/expressRez
 // ---------------------
 // Copyright Express Zenovka, 2010-2011
 // GNU GPL http://www.gnu.org/licenses/gpl.html

@@ -15,7 +15,7 @@ I created expressRez because I needed a way to package up a build I was working 
 
 ## Instructions
 
-For the latest version of the expressRez scripts (and these instructions), please visit https://github.com/expresszenovka/expressRez
+For the latest version of the expressRez scripts (and these instructions), please visit http://github.com/expresszenovka/expressRez
 
 I assume that build you're packaging is already completed. There are three parts to the process: recording, packing, and unpacking.
 
@@ -58,6 +58,7 @@ It has worked for me, but I haven't had the time to test it extensively, nor do 
 However, I understand that people might need help with using these scripts. They may not know how to modify the scripts to work for them. To that end, I will offer paid support for these scripts. Please IM Express Zenovka inworld for more information.
 
 Also, you might take a look into the following commercial products that most of what expressRez does and plenty more:
+
 * Rez-Faux, by Lex Neva
 * Rez-Foo, by CrystalShard Foo
 
